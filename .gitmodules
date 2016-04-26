@@ -1,0 +1,3 @@
+[submodule "lava-dispatcher"]
+	path = lava-dispatcher
+	url = https://github.com/x-deepin/lava-dispatcher.git
